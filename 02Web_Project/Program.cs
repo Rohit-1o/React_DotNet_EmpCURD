@@ -2,7 +2,6 @@ using _02Web_Project.Models;
 using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
-
 namespace _02Web_Project
 {
     public class Program
